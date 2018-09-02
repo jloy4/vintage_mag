@@ -1,0 +1,8 @@
+{
+  "name": "vintage_mag",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "1ec70d56"
+}
